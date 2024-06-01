@@ -1,0 +1,7 @@
+DateTime==5.5
+pygame==2.5.2
+pytz==2024.1
+ramdom==1.0
+setuptools==69.5.1
+tk==0.1.0
+zope.interface==6.3
